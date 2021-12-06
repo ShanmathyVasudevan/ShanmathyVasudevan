@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+<!--"A tech enthusiast who is just getting started to explore programming coming from the business side of table, its good to not only identify the problems in paper but to be part of the solution implementation as well"
 **ShanmathyVasudevan/ShanmathyVasudevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
